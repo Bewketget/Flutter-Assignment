@@ -1,4 +1,4 @@
-# try_1
+# My_Flutter-Individual-Assignment
 
 A new Flutter project.
 
